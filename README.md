@@ -3,8 +3,8 @@
 
 ## About
 
-You can find all my published games on itch! So far I've only published small projects for game jams,
-but I'm working on something a bit bigger currently.
+You can find all my published games on [winston-yallow.itch.io](https://winston-yallow.itch.io/)! So far
+I've only published small projects for game jams, but I'm working on something a bit bigger currently.
 
 I'm quite active in the Godot community and you will often find me on the official Godot discord server.
 

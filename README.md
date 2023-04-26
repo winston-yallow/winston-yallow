@@ -23,7 +23,7 @@ You can buy me a coffee if you want to support me! ☕
 ---
 
 ### 🛠️ Dev-Ops Skills
-- GitLab (self managed)
+- GitLab (self hosted)
 - CI/CD (GitLab, GitHub & Travis)
 - OWASP Dependency Track
 - Ansible
